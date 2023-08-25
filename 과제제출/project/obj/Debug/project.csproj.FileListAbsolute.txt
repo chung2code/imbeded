@@ -8,3 +8,13 @@ C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.csproj.Ge
 C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.csproj.CoreCompileInputs.cache
 C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.exe
 C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.pdb
+C:\Users\anthd\Desktop\과제제출\과제제출\project\bin\Debug\project.exe.config
+C:\Users\anthd\Desktop\과제제출\과제제출\project\bin\Debug\project.exe
+C:\Users\anthd\Desktop\과제제출\과제제출\project\bin\Debug\project.pdb
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.Form1.resources
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.exe
+C:\Users\anthd\Desktop\과제제출\과제제출\project\obj\Debug\project.pdb
