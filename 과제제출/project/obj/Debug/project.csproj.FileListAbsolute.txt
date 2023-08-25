@@ -1,0 +1,10 @@
+C:\임베디드웹\임베디드\과제제출\project\bin\Debug\project.exe.config
+C:\임베디드웹\임베디드\과제제출\project\bin\Debug\project.exe
+C:\임베디드웹\임베디드\과제제출\project\bin\Debug\project.pdb
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.Form1.resources
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.Properties.Resources.resources
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.exe
+C:\임베디드웹\임베디드\과제제출\project\obj\Debug\project.pdb
