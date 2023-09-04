@@ -1,0 +1,60 @@
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\bin\Debug\01BASIC.exe.config
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\bin\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\bin\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\01BASIC_C#\01BASIC\obj\Debug\_01BASIC.winform.resources
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\bin\Debug\01BASIC.exe.config
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\bin\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\bin\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\_01BASIC.winform.resources
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\01BASIC\obj\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\bin\Debug\01BASIC.exe.config
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\bin\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\bin\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\_01BASIC.winform.resources
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (2)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\02SerialConn\obj\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe.config
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.winform.resources
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더 (4)\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe.config
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.pdb
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.winform.resources
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.exe
+C:\Users\Administrator\Downloads\새 폴더\07EMBEDDED\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.pdb
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe.config
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.exe
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\bin\Debug\01BASIC.pdb
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.AssemblyReference.cache
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.winform.resources
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\_01BASIC.Properties.Resources.resources
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.GenerateResource.cache
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.csproj.CoreCompileInputs.cache
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.exe
+C:\Users\ksh93\Downloads\07EMBEDDED-main\03 임베디드 애플리케이션 구현 환경 구축\임베디드UI연결\00 C#프로젝트\01BASIC_C#\03SerialControl\obj\Debug\01BASIC.pdb
